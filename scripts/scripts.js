@@ -4,6 +4,8 @@ function initializeApp() {
     displayMeme();
 }
 
+//comment
+
 async function displayMeme(){
     try{
         const response = await
